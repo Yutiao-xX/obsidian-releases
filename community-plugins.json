@@ -65063,5 +65063,12 @@
     "author": "Lazybird",
     "description": "Read your notes aloud and save them as MP3 files with natural AI voices. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lazybirdai/obsidian-lazybird"
+  },
+  {
+    "id": "silent-reflect",
+    "name": "Silent Reflect",
+    "author": "吴子明",
+    "description": "Silently tracks what you write and change in your vault, then generates daily and weekly reflections. Strictly read-only.",
+    "repo": "Yutiao-xX/silent-reflect"
   }
 ]
